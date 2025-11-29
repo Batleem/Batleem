@@ -1,39 +1,13 @@
-# Martin Nosland
-> Étudiant en Informatique (Parcours Données & IA)
+# 💫 About Me:
+🎓 Computer Science student specializing in Data & AI at Université Savoie Mont-Blanc.<br>🛠️ Passionate about data engineering, backend development, and building automation tools in Python.<br>🚀 Always exploring new technologies and crafting small projects to sharpen my skills.<br>💡 Currently looking for an internship to apply my knowledge in development and databases.<br>🌍 Based in Annecy, France, and eager to collaborate on meaningful, well-built projects.
 
-Développeur en formation focalisé sur la Data et le Backend.  
-Basé à Annecy, France.
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/martinnsld) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin nosland) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:martin.nosland@etu.univ-smb.fr) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ---
+[![](https://visitcount.itsvg.in/api?id=Batleem&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### À propos
-
-Actuellement en 2ème année de **BUT Informatique** à l'Université Savoie Mont-Blanc, je me spécialise dans l'exploitation des données et l'intelligence artificielle.
-
-Je suis à la recherche d'un **stage** pour mettre en pratique mes compétences en développement et base de données. Passionné par l'automatisation et la création de projets personnels en Python.
-
-### Stack Technique
-
-J'utilise principalement des technologies web et data robustes apprises durant mon cursus et mes projets.
-
-| Domaine | Compétences |
-| :--- | :--- |
-| **Langages** | Python, C#, JavaScript, SQL |
-| **Web & Frameworks** | Laravel, .NET, HTML5, CSS3 |
-| **Data & SGBD** | PostgreSQL, Merise (Power AMC) |
-| **Environnement** | Linux, Windows, VS Code |
-
-### Projets & Expériences
-
-**Application Web de Gestion (Projet Académique)** Conception et développement d'une application complète incluant la modélisation de la base de données.  
-*Stack : Laravel, PostgreSQL, JavaScript*
-
-**Projets Personnels** Développement d'outils et scripts variés pour explorer les capacités du langage.  
-*Stack : Python*
-
----
-
-### Contact
-
-Pour discuter d'opportunités de stage ou de collaboration :  
-[martin.nosland@etu.univ-smb.fr](mailto:martin.nosland@etu.univ-smb.fr)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
